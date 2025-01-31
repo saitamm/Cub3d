@@ -185,7 +185,7 @@ int	draw_textures(t_data *data, int i, int end, t_point p0)
 
 ## 6. How to Play
 
-``` git clone git@github.com:Keltoum-Nacer/cub3d.git ```
+``` git clone git@github.com:saitamm/Cub3d.git ```
 
 don't mess to install the minilibix-linux (in your intra)
 
